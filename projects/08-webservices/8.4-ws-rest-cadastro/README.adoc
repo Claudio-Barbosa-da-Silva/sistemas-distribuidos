@@ -55,7 +55,8 @@ MySQL Server Community https://dev.mysql.com/downloads/mysql/[aqui].
 
 ==== Criando o Banco de Dados
 
-Utilize o NetBeans para criar o banco de dados chamado `cadastro-rest` para o nosso sistema, acessando a aba "Services".
+Utilize o NetBeans para criar o banco de dados chamado `cadastro-rest` para o nosso sistema, acessando a aba "Services",
+como mostrado neste https://youtu.be/g0R11_1Fv1I[vídeo].
 
 pass:[<iframe width="800" height="600" src="https://www.youtube.com/embed/g0R11_1Fv1I"></iframe>]
 
@@ -63,7 +64,7 @@ Não precisaremos criar as tabelas manualmente, como veremos a seguir.
 
 === GlassFish 5
 
-Abaixo são mostrados os passos para instalar o GlassFish 5. Todos estes passos também podem
+Abaixo são mostrados os passos para instalar o GlassFish 5, que também podem
 ser acompanhados neste https://youtu.be/Z87oeoaAxDI[vídeo].
 
 // video::Z87oeoaAxDI[youtube, 800, 600]
