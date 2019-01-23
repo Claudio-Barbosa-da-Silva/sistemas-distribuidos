@@ -205,7 +205,7 @@ O mesmo processo de definir uma entidade, um `ID` e implementar `Serializable` d
 Projetos utilizando JPA precisam conter uma Persistence Unit (PU), que é uma arquivo chamado `persistence.xml` definindo as configurações para acesso ao BD, controle de transações, provedor de persistência a ser utilizado e outras configurações. Ele é o arquivo de configuração da JPA.
 
 Uma vez que já temos algumas Entities no nosso projeto, podemos facilmente adicionar uma PU utilizando o NetBeans,
-como mostra este link::http://youtu.be/7y--ODvjdjQ[vídeo].
+como mostra este https://youtu.be/7y--ODvjdjQ[vídeo].
 
 video::7y--ODvjdjQ[youtube, 800, 600]
 
