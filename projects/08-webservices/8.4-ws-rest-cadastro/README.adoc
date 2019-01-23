@@ -14,7 +14,7 @@ endif::[]
 
 
 ifdef::env-github[]
-IMPORTANT: Acesse o tutorial online https://manoelcampos.gitbooks.io/sistemas-distribuidos/projects/08-webservices/8.4-ws-rest-cadastro/[neste link]. **O acesso diretamente pelo GitHub não permite a exibição de vídeos.**
+IMPORTANT: Acesse o tutorial online https://manoelcampos.gitbooks.io/sistemas-distribuidos/content/projects/08-webservices/8.4-ws-rest-cadastro/[neste link]. **O acesso diretamente pelo GitHub não permite a exibição de vídeos.**
 endif::[]
 
 = Desenvolvimento Web Services REST em Java utilizando JAX-RS com JPA e CDI no NetBeans
@@ -56,7 +56,7 @@ MySQL Server Community https://dev.mysql.com/downloads/mysql/[aqui].
 ==== Criando o Banco de Dados
 
 Utilize o NetBeans para criar o banco de dados chamado `cadastro-rest` para o nosso sistema, acessando a aba "Services",
-como mostrado neste https://youtu.be/g0R11_1Fv1I[vídeo].
+como mostrado ifdef::env-github[https://youtu.be/g0R11_1Fv1I[neste link]] ifndef::env-github[no vídeo abaixo].
 
 pass:[<iframe width="800" height="600" src="https://www.youtube.com/embed/g0R11_1Fv1I"></iframe>]
 
