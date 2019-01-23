@@ -10,7 +10,7 @@ do IBGE para permitir que eles funcionem em conjunto. Se em um sistema uma cidad
 um código e em outro sistema tiver outro código, obteremos dados errados ao integrar
 estes sistemas.
 
-Uma lista de cidades e estados com os códigos do IBGE pode ser obtida https://www.ricardoarrigoni.com.br/cidades-brasil-lista-de-cidades-brasileiras-em-sql/[aqui].
+Uma lista de cidades e estados com os códigos do IBGE pode ser obtida link:cidades-brasil-ibge.sql[aqui].
 
 = 1. Sistema de Busca de Voos
 
