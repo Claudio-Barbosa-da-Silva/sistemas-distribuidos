@@ -56,9 +56,11 @@ MySQL Server Community https://dev.mysql.com/downloads/mysql/[aqui].
 ==== Criando o Banco de Dados
 
 Utilize o NetBeans para criar o banco de dados chamado `cadastro-rest` para o nosso sistema, acessando a aba "Services",
-como mostrado ifdef::env-github[https://youtu.be/g0R11_1Fv1I[neste link]] ifndef::env-github[no vídeo abaixo].
+como mostrado ifdef::env-github[] https://youtu.be/g0R11_1Fv1I[neste link] endif::[] ifndef::env-github[] no vídeo abaixo endif::[].
 
-pass:[<iframe width="800" height="600" src="https://www.youtube.com/embed/g0R11_1Fv1I"></iframe>]
+video::g0R11_1Fv1I[youtube, 800, 600]
+
+// pass:[<iframe width="800" height="600" src="https://www.youtube.com/embed/g0R11_1Fv1I"></iframe>]
 
 Não precisaremos criar as tabelas manualmente, como veremos a seguir.
 
