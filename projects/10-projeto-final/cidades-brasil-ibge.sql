@@ -1,4 +1,4 @@
-# Script SQL com cadastro de cidades e estados do país, conforme IBGE.
+# Script MySQL com cadastro de cidades e estados do país, conforme IBGE.
 # Adaptado de https://www.ricardoarrigoni.com.br/cidades-brasil-lista-de-cidades-brasileiras-em-sql/
 
 CREATE TABLE IF NOT EXISTS `Estado` (
