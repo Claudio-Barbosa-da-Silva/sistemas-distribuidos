@@ -57,7 +57,7 @@ MySQL Server Community https://dev.mysql.com/downloads/mysql/[aqui].
 
 Utilize o NetBeans para criar o banco de dados chamado `cadastro-rest` para o nosso sistema, acessando a aba "Services".
 
-video::g0R11_1Fv1I[youtube, 800, 600]
+pass:[<iframe width="800" height="600" src="https://www.youtube.com/embed/g0R11_1Fv1I"></iframe>]
 
 Não precisaremos criar as tabelas manualmente, como veremos a seguir.
 
