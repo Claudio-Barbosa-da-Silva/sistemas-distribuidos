@@ -14,8 +14,7 @@ endif::[]
 
 
 ifdef::env-github[]
-IMPORTANT: Acesse o tutorial online https://manoelcampos.gitbooks.io/sistemas-distribuidos/projects/08-webservices/8.4-ws-rest-cadastro/
-[neste link].O acesso diretamente pelo GitHub não permite a exibição de vídeos.
+IMPORTANT: Acesse o tutorial online https://manoelcampos.gitbooks.io/sistemas-distribuidos/projects/08-webservices/8.4-ws-rest-cadastro/[neste link]. **O acesso diretamente pelo GitHub não permite a exibição de vídeos.**
 
 :youtube: true
 endif::[]
@@ -67,7 +66,7 @@ Não precisaremos criar as tabelas manualmente, como veremos a seguir.
 === GlassFish 5
 
 Abaixo são mostrados os passos para instalar o GlassFish 5. Todos estes passos também podem
-ser acompanhados ifdef::env-github[neste https://youtu.be/Z87oeoaAxDI[vídeo]] ifndef::env-github[no vídeo abaixo].
+ser acompanhados ifdef::youtube[no vídeo abaixo] ifndef::youtube[neste https://youtu.be/Z87oeoaAxDI[vídeo]] .
 
 ifndef::env-github[]
 video::Z87oeoaAxDI[youtube, 800, 600]
