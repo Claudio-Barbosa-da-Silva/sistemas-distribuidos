@@ -57,7 +57,7 @@ Devem ser disponibilizados os seguintes endpoints REST:
 O sistema deve possuir tabelas para cadastro de cidades, estados, locadoras de veículos
 e veículos existentes.
 O cadastro dos veículos deve incluir a placa, marca, modelo, ano de fabricação e preço,
-se tem ar condicionado ou não, tipo de combustível se é cambio manual ou automático.
+se tem ar condicionado ou não, tipo de combustível, se é cambio manual ou automático.
 
 Não é preciso implementar classes DAO para cadastro de todas essas tabelas,
 mas apenas para aquelas exibidas na lista a seguir.
@@ -80,10 +80,10 @@ O mesmo deve possuir então apenas uma interface gráfica para permitir realizar
 Tal sistema deve fornecer pelo menos 2 formas de consulta a cada um dos sistemas apresentados acima.
 O usuário deve poder escolher as buscas que deseja fazer. Ele pode buscar:
 
-- apenas voos;
-- apenas hotéis; 
-- voos e hotéis;
-- voos, hotéis e veículos;
-- ou qualquer combinação destes 3 tipos de reservas.
+1. apenas voos;
+2. apenas hotéis; 
+3. voos e hotéis;
+4. voos, hotéis e veículos;
+5. ou qualquer combinação destes 3 tipos de reservas.
 
 
